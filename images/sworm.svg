@@ -1,0 +1,18 @@
+<svg id="sworm" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.59 65.59"><defs>
+
+
+
+#face {
+		display: block;
+	}
+
+	@media screen and (max-width: 150px) {
+
+		#face {
+			display: none;
+		}
+
+	}
+
+
+	<style>.cls-1{fill:#b0bc69;}.cls-2{fill:#575b36;}.cls-3{fill:#fff;}</style></defs><title>sworm</title><g id="body"><circle class="cls-1" cx="32.8" cy="32.8" r="32.8"/><circle class="cls-2" cx="19.84" cy="25.04" r="10.11"/><circle class="cls-2" cx="45.75" cy="25.68" r="10.11"/></g><g id="face"><g id="white_eye" data-name="white eye"><circle class="cls-3" cx="20.98" cy="28" r="7.84"/><circle class="cls-3" cx="48.88" cy="28.83" r="7.84"/></g><g id="eye"><circle cx="48.88" cy="28.83" r="1.28"/><circle cx="20.98" cy="28.15" r="1.28"/></g></g></svg>

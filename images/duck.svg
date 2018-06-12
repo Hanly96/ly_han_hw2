@@ -1,0 +1,17 @@
+<svg id="duck" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.59 65.59"><defs><style>.cls-1{fill:#f9f8f4;}.cls-2{fill:#c47e4e;}
+
+
+#face {
+		display: block;
+	}
+
+	@media screen and (max-width: 150px) {
+
+		#face {
+			display: none;
+		}
+
+	}
+
+
+</style></defs><title>duck</title><circle class="cls-1" cx="32.8" cy="32.8" r="32.8"/><g id="face"><path class="cls-2" d="M58.32,234.89s-4.4-2.33.93-5.23,6.25-7.51,12-6.59,8.43,5.2,11.58,6.19,3,5.64-1.85,5.63S58.32,234.89,58.32,234.89Z" transform="translate(-33.59 -191.72)"/><g id="eye"><circle cx="22.86" cy="22.17" r="1.88"/><circle cx="42.73" cy="22.17" r="1.88"/></g></g></svg>

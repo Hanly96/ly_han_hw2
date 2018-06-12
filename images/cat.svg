@@ -1,0 +1,18 @@
+<svg id="cat" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.59 65.59"><defs><style>.cls-1{fill:#cec8ba;}.cls-2{fill:#7c786c;}.cls-3{fill:none;stroke:#000;stroke-miterlimit:10;}
+
+
+
+#face {
+		display: block;
+	}
+
+	@media screen and (max-width: 150px) {
+
+		#face {
+			display: none;
+		}
+
+	}
+
+
+</style></defs><title>cat</title><circle id="body" class="cls-1" cx="32.8" cy="32.8" r="32.8"/><g id="ear"><path class="cls-2" d="M146.35,154.69s-11.45-33.81,14.87-6.89Z" transform="translate(-130.31 -131.56)"/><path class="cls-2" d="M180.06,153.48s8.85-34.58-15.35-5.74Z" transform="translate(-130.31 -131.56)"/></g><g id="face"><g id="eye"><circle cx="20.86" cy="28.17" r="1.87"/><circle cx="44.73" cy="28.17" r="1.87"/></g><g id="nose"><circle cx="32.93" cy="43.78" r="3.23"/><path class="cls-3" d="M163,176s-1.82,10.7-7.27,2.22" transform="translate(-130.31 -131.56)"/><path class="cls-3" d="M163.16,176.17s3.9,10.13,7.57.74" transform="translate(-130.31 -131.56)"/></g></g><g id="beard"><line class="cls-3" x1="20.01" y1="43.34" x2="10.44" y2="37.85"/><line class="cls-3" x1="18.88" y1="45.25" x2="7.97" y2="43.63"/><line class="cls-3" x1="18.89" y1="47.8" x2="8.21" y2="50.57"/><line class="cls-3" x1="46.77" y1="42.48" x2="56.34" y2="36.98"/><line class="cls-3" x1="47.9" y1="44.38" x2="58.82" y2="42.76"/><line class="cls-3" x1="47.89" y1="46.94" x2="58.58" y2="49.71"/></g></svg>

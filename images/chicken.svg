@@ -1,0 +1,21 @@
+<svg id="chicken" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.59 65.59"><defs><style>.cls-1{fill:#efc94c;}.cls-2{fill:#ec664c;}.cls-3{fill:#c47e4e;}
+
+
+
+
+#face {
+		display: block;
+	}
+
+	@media screen and (max-width: 150px) {
+
+		#face {
+			display: none;
+		}
+
+	}
+
+
+
+
+</style></defs><title>chicken</title><circle class="cls-1" cx="32.8" cy="32.8" r="32.8"/><path class="cls-2" d="M69.75,51.42S59.33,39.78,64.47,40.58A11.07,11.07,0,0,1,72,46s-8-15.69-2.62-14.58,7,11,7,11,.17-7.35,3.57-6.11,1.8,13.31,1.8,13.31Z" transform="translate(-41.65 -29.29)"/><g id="face"><g id="eye"><circle cx="23.27" cy="29.34" r="1.88"/><circle cx="43.15" cy="29.34" r="1.88"/></g><path class="cls-3" d="M82.67,70,76.92,88.36,68.54,70.22S75.51,62.59,82.67,70Z" transform="translate(-41.65 -29.29)"/></g></svg>
